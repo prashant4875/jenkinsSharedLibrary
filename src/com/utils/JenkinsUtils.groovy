@@ -1,3 +1,5 @@
+package com.utils
+
 import jenkins.model.*
 import hudson.model.*
 import com.cloudbees.hudson.plugins.folder.*
